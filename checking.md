@@ -9,7 +9,8 @@
     - CRM DataPool- Phê duyệt Pool FE Ghép api nghiệp vụ tương ứng -> Pending
     - CRM DataPool- Phê duyệt Pool FE Ghép api với nghiệp vụ CRM -> Pending
   - CRM Bổ sung trường Thông tin KH Cuối -> Processing
-  - CRM DataPool- nhắc hẹn đặt lịch FE Chức năng tạo lịch hẹn -> Processing
+  - CRM DataPool notify nhắc nhở tương tác khách hàng -> Processing
+  - CRM DataPool- nhắc hẹn đặt lịch FE Chức năng tạo lịch hẹn -> Pending
 
 - Deal
   - CRM Cải tiến giao diện FE View màn Deal
