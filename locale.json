@@ -1,0 +1,13 @@
+{
+  "crm-tag": "Mức độ tiềm năng",
+  "crm-tag-button": "Gán mức độ tiềm năng",
+  "crm-tag-title-dialog": "Gán mức độ tiềm năng",
+  "crm-invalid-interact-date-with-tag-red": "Chưa đủ điều kiện chuyển mức độ tiềm năng, thiếu thông tin tương tác",
+  "crm-invalid-with-tag-red": "Chưa đủ thông tin chuyển điều kiện mức độ tiềm năng, thiếu thông tin đối thủ",
+  "crm-invalid-interact-date-with-tag-green": "Chưa đủ điều kiện chuyển mức độ tiềm năng, thiếu thông tin tương tác",
+  "crm-invalid-with-tag-green": "Chưa đủ điều kiện chuyển mức độ tiềm năng, thiếu thông tin đối thủ",
+  "crm-no-interact-entry-with-tag-yellow": "Chưa đủ điều kiện chuyển mức độ tiềm năng, thiếu thông tin tương tác",
+  "crm-invalid-both-date-with-tag-red": "Chưa đủ điều kiện chuyển mức độ tiềm năng, thiếu thông tin tương tác và đối thủ",
+  "crm-invalid-both-date-with-tag-green": "Chưa đủ điều kiện chuyển mức độ tiềm năng, thiếu thông tin tương tác và đối thủ",
+  "crm-has-not-competitor": "Chưa có thông tin đối thủ"
+}
