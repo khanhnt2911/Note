@@ -13,6 +13,6 @@
 
 - Deal
   - CRM Cải tiến giao diện FE View màn Deal
-    - Xây dựng pipeline stage
-    - Xây dựng thông tin chung
-    - Xây dựng thông tin chi tiế các tab làm việc trong từng stage
+    - Xây dựng pipeline stage -> Pending
+    - Xây dựng thông tin chung -> Pending
+    - Xây dựng thông tin chi tiế các tab làm việc trong từng stage -> Pending
