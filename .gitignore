@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Personal sensitive files
+account.md
+email.md
+*.env
+*.key
+*.pem
+
+# Database files
+*.sql
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Node modules (if any)
+node_modules/
+
+# Other
+.cache/
+
+.account.md
+.note.md
