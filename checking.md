@@ -33,10 +33,11 @@
     - Xây dựng thông tin chung -> DONE
     - Xây dựng thông tin chi tiế các tab làm việc trong từng stage -> Pending
 
-Deploy Xspace-customer lên môi trường PROD
+## Sprint 5
 
-Thời gian: 18h00 10/12/2025
-Mục đích: Sửa lỗi tự động chuyển tab làm việc tại màn hình Deal trên Xspace khi chuyển qua tab khác của trình duyệt
-Service: xspace-customer
-Git: https://git.cmctelecom.vn/cds/dx/frontends/xspace/xspace-customer
-Tag: prod-20251210-01
+- Deploy thông tin đối thủ - dịch vụ
+- Deploy thông tin nhân sự phụ trách datapool
+
+- 15/12
+- Hoàn thiện phần chi tiết deal
+- Hoàn thiện customer 360 - Phân tách menu, show sơ đồ tổ chức, điều chỉnh lại backgroud theo modules moderm
