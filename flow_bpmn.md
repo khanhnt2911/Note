@@ -9,6 +9,19 @@
 
 2. Tạo thêm một vai trò trong phân hệ process tương ứng với modules của bạn
 
+- Tạo policy với phân hệ tương ứng với config
+config: {
+	"default.scope.domain": true,
+	"domain": [
+		{
+			"type": "CUSTOMER-REQUEST-TYPE",
+			"column": "request_type"
+		}
+	]
+}
+
+code: customer-request-type
+
 - sau khi tạo xong -> ấn vào bánh răng (setup) -> phạm vi dữ liệu -> appdomain -> thêm mới -> tìm kiếm tên theo từng modules bạn mới đặt tên vd: "customer-request"
 
 3. Phân quyền người dùng
