@@ -38,6 +38,7 @@
 - Deploy thông tin đối thủ - dịch vụ
 - Deploy thông tin nhân sự phụ trách datapool
 
-- 15/12
-- Hoàn thiện phần chi tiết deal
-- Hoàn thiện customer 360 - Phân tách menu, show sơ đồ tổ chức, điều chỉnh lại backgroud theo modules moderm
+- 08/01
+  - hoàn thiện test case datapool
+  - Chiều: đẩy BPMN lên stg
+  

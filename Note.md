@@ -13,3 +13,14 @@ Mục đích: Sửa lỗi tự động chuyển tab làm việc tại màn hình
 Service: xspace-customer
 Git: <https://git.cmctelecom.vn/cds/dx/frontends/xspace/xspace-customer>
 Tag: prod-20251210-01
+
+
+1.Mục đích
+- Tiến hành phân quyền chức năng cho người dùng
+
+2.Công việc thực hiện
+- Tạo phân hệ, tài nguyên, policy liên quan
+- Cập nhật logic liên quan
+
+3.Tiêu chí chấp nhận
+- Mỗi người dùng chỉ có thể nhìn được dữ liệu của bản thân
